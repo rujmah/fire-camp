@@ -1,3 +1,5 @@
+* This README is from @ryandotsmith gist: https://gist.github.com/1655019  
+
 # A Backbone.js demo app (Sinatra Backend)
 
 Oct 16 2010
